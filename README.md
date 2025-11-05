@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hello! I'm Sofia Sarak</h1>
+
+I'm currenly an environmental data science Master's student at the Bren School of Environmental Science & Management. My coursework includes applications of R, Python, SQL, and other data science techniques to environmental issues. Some examples of I'm learning include geospatial analysis, data visualization, and machine learning!
+
+### Past Experiences
+
+I studied Earth & Environmental Sciences and Economics at Wesleyan University for undergrad, and have experience with urban water quality monitoring, morphometric analysis for evolutionary biology, and trophic level designation via isotopes. I have also studied on the Galapagos Islands and New Zealand (I love islands!), which were *incredible* experiences that I bring into my daily life.
 
 <!--
 **sofiasarak/sofiasarak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
