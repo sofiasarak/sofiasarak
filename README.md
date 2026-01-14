@@ -2,10 +2,10 @@
 
 ...And I'm currenly an environmental data science Master's student at the Bren School of Environmental Science & Management.
 
-My coursework primarly includes applications of R and Python, using data science techniques to investigate environmental issues. Some examples of what I'm learning include geospatial analysis, data visualization, and machine learning! Check out my projects and assignments in my pinned respositories!
+My coursework primarly includes applications of R and Python, using data science techniques to investigate environmental issues. Some examples of what I'm learning include geospatial analysis, data visualization, and machine learning. Check out my projects and assignments in my pinned respositories!
 
 ### Hopes and Dreams 💭
-I'm looking to apply my data analysis and management skills to projects rooted in benefitting society, whether it be by improving accessibility by creating visualizations, conducting research to inform regulations and policies, or supporting conservation or the maintenance public green spaces efforts.
+I'm looking to apply my data analysis and management skills to projects rooted in societal improvement, whether it be by increasing accessibility by creating visualizations, conducting research to inform regulations and policies, or supporting conservation or the maintenance public green spaces efforts.
 
 ### Past Experiences 🗺️
 
