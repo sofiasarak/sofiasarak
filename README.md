@@ -5,7 +5,7 @@
 My coursework primarly includes applications of R and Python, using data science techniques to investigate environmental issues. Some examples of what I'm learning include geospatial analysis, data visualization, and machine learning. Check out my projects and assignments in my pinned respositories!
 
 ### Hopes and Dreams 💭
-I'm looking to apply my data analysis and management skills to projects rooted in societal improvement, whether it be by increasing accessibility by creating visualizations, conducting research to inform regulations and policies, or supporting conservation or the maintenance public green spaces efforts.
+I'm looking to apply my data analysis and management skills to projects rooted in societal improvement, whether it be by increasing accessibility through data visualization, conducting research to inform regulations and policies, or supporting conservation efforts or the maintenance public green spaces.
 
 ### Past Experiences 🗺️
 
