@@ -1,18 +1,21 @@
-<h1 align="center">Hello! ☀️ I'm Sofia Sarak...</h1>
+<h1 align="center">Hello! ☀️ I'm Sofia Sarak</h1>
 
-...And I'm currenly an environmental data science Master's student at the Bren School of Environmental Science & Management.
+### Currently 🌀
 
-My coursework primarly includes applications of R and Python, using data science techniques to investigate environmental issues. Some examples of what I'm learning include geospatial analysis, data visualization, and machine learning. Check out my projects and assignments in my pinned respositories!
+I'm on the job hunt! I'm searching for roles in NYC that will help me acheive my data analysis, communication, and visualization dreams. I am passionate about urban green spaces, public health, transporation, conservation, and the like.
 
-### Hopes and Dreams 💭
-I'm looking to apply my data analysis and management skills to projects rooted in societal improvement, whether it be by increasing accessibility through data visualization, conducting research to inform regulations and policies, or supporting conservation efforts or the maintenance public green spaces.
+### About 🌱
+
+I recently graduated with a Master of Environmental Data Science from the Bren School of Environmental Science & Management at UCSB. My coursework primarly included applications of R and Python, using data science techniques to investigate environmental issues. Some examples of what I'm learning include geospatial analysis, data visualization, and machine learning. I also learned some SQL for database management. Check out my projects and assignments in my pinned respositories!
+
+Additionally, my capstone project aimed to inform an equitable transition to electrification in California. My team and I worked in Python to clean and standardized a lot of (messy), publicly-available data, learned a lot about the energy grid, and uncovered some preliminary relationships between sociodemographic variables and grid distribution. All of this work can be found in its associated [GitHub organization](https://github.com/ElectriGrid).
 
 ### Past Experiences 🗺️
 
-I studied Earth & Environmental Sciences 🌱🌋 and Economics 📈 at Wesleyan University for undergrad, and have worked in urban water quality monitoring, morphometric analysis for evolutionary biology, and trophic level designation via isotopes. I have also studied on the Galapagos Islands and New Zealand (I love islands!), which were *incredible* experiences that I bring into my daily life.
+I studied Earth & Environmental Sciences 🌱🌋 and Economics 📈 at Wesleyan University for undergrad, and have worked in urban water quality monitoring, morphometric analysis for evolutionary biology, and trophic level designation via isotopes. I also studied abroad on the Galapagos Islands and New Zealand (I love islands!), which were incredible experiences that I bring into my daily life.
 
 ### Fun Facts 🌠
-🏡 I am originally from southern Connecticut, and am hoping to move back to the East Coast (or potentially the Midwest) after graduation. I love seasons!
+🥏 I played (very chill) ultimate frisbee at Wesleyan, and still love to toss around a disc whenever I can.
 
 🌍 My parents are immigrants from Eastern Europe, so I grew up speaking Russian and Ukrainian and eating borscht every winter. 
 
