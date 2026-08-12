@@ -1,5 +1,7 @@
 <h1 align="center">Hello! ☀️ I'm Sofia Sarak</h1>
 
+(Psst..check out my personal website @ https://sofiasarak.github.io/)
+
 ### Currently 🌀
 
 I'm on the job hunt! I'm searching for roles in NYC that will help me acheive my data analysis, communication, and visualization dreams. I am passionate about urban green spaces, public health, transporation, conservation, and the like.
