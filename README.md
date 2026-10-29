@@ -4,7 +4,7 @@
 
 ### Currently 🌀
 
-I'm on the job hunt! I'm searching for roles in NYC that will help me acheive my data analysis, communication, and visualization dreams. I am passionate about urban green spaces, public health, transporation, conservation, and the like.
+Community Outreach Specialist at NYC's Department of Sanitation! ♻️ Still always looking for ways to apply my data analysis, communication, and visualization skills to environmental work being done in NYC. I am passionate about urban green spaces, public health, transportation, conservation, and the like.
 
 ### About 🌱
 
