@@ -1,11 +1,5 @@
 <h1 align="center">Hello! ☀️ I'm Sofia Sarak</h1>
 
-(Psst..check out my personal website @ https://sofiasarak.github.io/)
-
-### Currently 🌀
-
-Community Outreach Specialist at NYC's Department of Sanitation! ♻️ Still always looking for ways to apply my data analysis, communication, and visualization skills to environmental work being done in NYC. I am passionate about urban green spaces, public health, transportation, conservation, and the like.
-
 ### About 🌱
 
 I recently graduated with a Master of Environmental Data Science from the Bren School of Environmental Science & Management at UCSB. My coursework primarly included applications of R and Python, using data science techniques to investigate environmental issues. Some examples of what I'm learning include geospatial analysis, data visualization, and machine learning. I also learned some SQL for database management. Check out my projects and assignments in my pinned respositories!
